@@ -22,3 +22,17 @@ results*/
 .vscode/
 .DS_Store
 *.swp
+
+# Claude Code / AI assistant tooling
+.claude/
+.claude*/
+CLAUDE.md
+CLAUDE.local.md
+**/CLAUDE.md
+.claudeignore
+.mcp.json
+.aider*
+.cursor/
+.cursorrules
+.github/copilot-instructions.md
+
