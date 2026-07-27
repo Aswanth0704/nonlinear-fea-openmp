@@ -1,0 +1,24 @@
+# Build trees
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.a
+*.so
+surgerywoundcpp3D
+
+# Simulation output
+*.vtk
+*.vtu
+paraview*/
+results*/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
